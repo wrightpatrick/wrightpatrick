@@ -14,10 +14,13 @@
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
 </p>
 
-I am a full-stack software engineer and proud father. I love programming, philosophy, and gaming.
+I am a full-stack software developer and proud father. I love programming, philosophy, and gaming.
 
-As a software engineer, I enjoy using my on-the-spot problem-solving skills, my obsessive attention to detail, and letting my curiousity run free. That's why I like to make things that people can use every day to improve their lives.
+As a software developer, I enjoy using my on-the-spot problem-solving skills, my obsessive attention to detail, and letting my curiousity run free. That's why I like to make things that people can use every day to improve their lives.<br>
+<br>
 
+Currently, I am working with the DoD, creating new and re-creating existing workflows and processes in Microsoft O365. I am leveraging Microsoft's Power Platform to make apps, automated workflows, and reports using Power Apps, Power Automate, and Power BI. I am Microsoft Certified in [Power Platform Fundamentals](https://www.credly.com/badges/6a82923d-5346-4713-b674-48b1e33dec67/public_url).<br>
+<br>
 
 📈 **My GitHub Stats:**
 

@@ -14,7 +14,7 @@
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
 </p>
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=wrightpatrick.wrightpatrick)
+// ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=wrightpatrick.wrightpatrick)
 
 I am a full-stack software engineer and proud father. I love programming, philosophy, and gaming.
 
